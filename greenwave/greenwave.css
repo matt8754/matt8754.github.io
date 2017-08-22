@@ -1,0 +1,102 @@
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville|Racing+Sans+One|Satisfy);
+
+html {
+    background-image: url('https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+    background-size: 20%;
+}
+
+body {
+    font-size: 200%;
+    text-align: center;
+    font-family: Libre Baskerville;
+}
+
+p {
+    font-size: 125%;
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+}
+
+em {
+    font-family: Satisfy;
+    font-size: 142%;
+}
+
+strong {
+    font-family: Racing Sans One;
+    font-size: 127%;
+    letter-spacing: -2px;
+}
+
+h1, h2, h3, h4 {
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    font-size: 150%;
+}
+
+ul {
+    text-align:left;
+}
+
+li {
+    font-size: 100%;
+    font-family: serif;
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    padding-left: 0.3em;
+    line-height: 1.8em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+pre {
+  text-align: left;
+}
+
+#step1 h1, p {
+    font-size: 95%;
+}
+
+#step1 h1 {
+    margin-bottom: 100px;
+}
+
+#greenwave img {
+    float: left;
+    padding-left: 20px;
+}
+
+#badtest h1, #waiverdb h1, #greenwave h1 {
+    text-align:left;
+}
+
+#problem1 img {
+    display: block;
+    margin-left:150px;
+}
+
+#badtest h1, #underhood h1, #freshmaker h1 {
+    font-size: 120%;
+}
+
+#waiverdb ul li {
+    font-size: 95%;
+}
+
+#checks h1, #policyexample h1, #gapiexample h1, #wapiexample h1 {
+    font-size: 120%;
+    text-align: left;
+}
+
+#nextsteps h1 {
+    text-align: left;
+}
