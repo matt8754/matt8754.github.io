@@ -100,3 +100,7 @@ pre {
 #nextsteps h1 {
     text-align: left;
 }
+
+#examples a {
+    color: #337ACC;
+}
